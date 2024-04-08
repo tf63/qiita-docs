@@ -1,10 +1,10 @@
 ---
 title: qiita-cil-test
 tags:
-  - 'test'
+  - テスト
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-04-08T21:55:30+09:00'
+id: fdc16197e67ba1fd1c8d
 organization_url_name: null
 slide: false
 ignorePublish: false
