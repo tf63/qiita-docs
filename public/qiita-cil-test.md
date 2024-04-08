@@ -1,7 +1,7 @@
 ---
 title: qiita-cil-test
 tags:
-  - ''
+  - 'test'
 private: false
 updated_at: ''
 id: null
